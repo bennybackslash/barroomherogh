@@ -1,16 +1,16 @@
 baseurl = "/"
 title = "barroomhero"
-author = "Daniel Zaragoza (Danielkvist)"
+author = "Ben Doucette"
 googleAnalytics = ""
 defaultContentLanguage = "en"
 language = "en-US"
 paginate = 3
 
-theme = "terrassa"
+# theme = "terrassa"
 # themesDir = "../.." # Not necessary on production sites
 
 [params]
-    description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
+    description = "barroomhero is a bot for discord."
     favicon = "favicon.ico"
     logo = ""
 

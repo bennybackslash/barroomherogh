@@ -1,0 +1,50 @@
+:root {
+    /* Font Sizes */
+    --title: 3.998rem;
+    --subtitle: 2.827rem;
+    --header: 1.999rem;
+    --subheader: 1.414rem;
+
+    /* Colors */
+    --primary: #ad343e;
+    --primary-dark: #ad343e;
+    --primary-light: #faa916;
+    --primary-text: #ffffff;
+    --secondary-text: #ffffff;
+    --accent: #faa916;
+    --divider: #ffffff;
+    --white: #000000;
+
+    /* Breakpoints */
+    --sm: 576px;
+    --md: 768px;
+    --lg: 992px;
+    --xl: 1200px;
+}
+
+a:hover {
+    color: blue;
+}
+
+body {
+    background-color: var(--white);
+}
+
+.header__title {
+    font-family: 'Audiowide', cursive;
+    font-size: 24px;
+}
+
+.header__title__link {
+	color: rgb(167, 7, 7);
+}
+
+.hero {
+	justify-content: flex-end;
+}
+
+.hero__caption {
+	align-items: flex-end;
+	margin-right: 4.5rem;
+}
+
