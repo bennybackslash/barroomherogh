@@ -6,9 +6,6 @@ defaultContentLanguage = "en"
 language = "en-US"
 paginate = 3
 
-# theme = "terrassa"
-# themesDir = "../.." # Not necessary on production sites
-
 [params]
     description = "barroomhero is a bot for discord."
     favicon = "favicon.ico"
