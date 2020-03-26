@@ -9,7 +9,7 @@ paginate = 3
 [params]
     description = "barroomhero is a bot for discord."
     favicon = "favicon.ico"
-    logo = ""
+    logo = "logo.png"
 
 [params.hero]
     textColor = "" # Empty for default color

@@ -9,11 +9,11 @@
     --primary: #ad343e;
     --primary-dark: #ad343e;
     --primary-light: #faa916;
-    --primary-text: #ffffff;
-    --secondary-text: #ffffff;
+    --primary-text: #F4D689;
+    --secondary-text: #F4D689;
     --accent: #faa916;
-    --divider: #ffffff;
-    --white: #000000;
+    --divider: #F4D689;
+    --white: #272C34;
 
     /* Breakpoints */
     --sm: 576px;
