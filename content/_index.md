@@ -8,4 +8,6 @@ weight: 1
 ---
 
 # Test
-## Hugo theme.
+## Hugo theme. {{< awesome fas fa-beer >}}
+
+fdsgds

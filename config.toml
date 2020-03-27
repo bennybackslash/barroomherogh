@@ -9,6 +9,8 @@ paginate = 3
 [params]
     description = "barroomhero is a bot for discord."
     favicon = "favicon.ico"
+    faviconPng32 = "favicon32.png"
+    faviconPng48 = "favicon48.png"
     logo = "logo.png"
 
 [params.hero]
@@ -22,9 +24,9 @@ paginate = 3
 [params.separator] # Separators between sections on the home page
     show = false
 
-[params.fa] # Font Awesome options
-    version = "5.7.2"
-    integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
+# [params.fa] # Font Awesome options
+#    version = "5.7.2"
+#    integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
 
 [params.form] # Contact form
     netlify = true
