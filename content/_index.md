@@ -1,13 +1,11 @@
 ---
-title: "Home"
+title: "Add to Discord"
 description: ""
-images: [""]
+images: ["background.png"]
 draft: false
 menu: main
 weight: 1
 ---
 
-# Test
-## Hugo theme. {{< awesome fas fa-beer >}}
-
-fdsgds
+# Welcome!
+## A discord bot that deals cards and drinks! {{< awesome fas fa-beer >}}
