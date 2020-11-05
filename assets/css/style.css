@@ -141,10 +141,10 @@
 /* HERO */
 .hero {
 	align-content: center;
-	/* background-attachment: fixed; */
-	/* background-position: 100% 20%; */
-	/* background-repeat: no-repeat; */
-	/* background-size: contain; */
+	background-attachment: fixed;
+	background-position: 100% 20%;
+	background-repeat: no-repeat;
+	background-size: contain;
 	display: flex;
 	height: 90vh;
 	justify-content: flex-start;
@@ -301,10 +301,10 @@
 	margin-bottom: 1.1rem;
 }
 
-.post__body > ul,
+/* .post__body > ul,
 .post__body > ol {
 	margin-left: 3.75rem;
-}
+} */
 
 .post__footer {
 	display: flex;
@@ -583,3 +583,4 @@
 	transform: scale(0, 0);
 	transition: 0s;
 }
+*/

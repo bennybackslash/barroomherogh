@@ -5,7 +5,7 @@
             <i class="fas fa-bars"></i>
         </label>
 
-        <ul class="hamburger__items" aria-label="mobile-menu">
+        <ul class="hamburger__items" aria-label="mobile-menu" style="list-style-type:none;">
             {{ range .Site.Menus.main }}
             <li class="hamburger__items__item" aria-label="{{ .Name }}">
                 <a href="{{ .URL }}" class="hamburger__items__item__link" alt="{{ .Name }}" role="menuitem">
@@ -13,9 +13,9 @@
                 </a>
             </li>
             {{ end }}
-            <li class="hamburger__items__item" aria-label="Donate">
+            <li class="hamburger__items__item" aria-label="Premium">
                 <a href="https://www.patreon.com/barroomhero?fan_landing=true" class="hamburger__items__item__link" alt="Donate" role="menuitem">
-                    Donate
+                    Premium
                 </a>
             </li>
         </ul>

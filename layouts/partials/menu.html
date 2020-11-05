@@ -1,5 +1,5 @@
 <nav class="menu" aria-label="menu">
-    <ul class="menu__items" aria-label="menu">
+    <ul class="menu__items" aria-label="menu" style="list-style-type:none;">
         {{ $current := . }}
         {{ range .Site.Menus.main }}
         <li class="menu__items__item" aria-label="{{ .Name }}">
@@ -10,10 +10,10 @@
         </li>
         {{ end }}
 
-        <li class="menu__items__item" aria-label="Donate">
-            <a href="https://www.patreon.com/barroomhero?fan_landing=true" class="menu__items__item__link" alt="Donate"
+        <li class="menu__items__item" aria-label="Premium">
+            <a href="https://barroomhero.memberful.com/checkout?plan=46757" class="menu__items__item__link" alt="Donate"
                 role="menuitem">
-                Donate
+                Premium
             </a>
         </li>
     </ul>
