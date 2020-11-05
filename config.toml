@@ -1,7 +1,7 @@
 baseurl = "bennybackslash.github.io/barroomherosite/"
 # baseurl = "/"
-# relativeURLs = true
-# uglyURLs = true
+relativeURLs = true
+uglyURLs = true
 title = "barroomhero"
 author = "Ben Doucette"
 googleAnalytics = ""
@@ -35,6 +35,7 @@ publishDir = "docs"
     faviconPng32 = "favicon32.png"
     faviconPng48 = "favicon48.png"
     logo = "logo.png"
+    background = "background.png"
 
 [params.hero]
     textColor = "" # Empty for default color
