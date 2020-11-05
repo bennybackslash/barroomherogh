@@ -1,6 +1,6 @@
 <main class="hero" 
 {{ if $.Site.Params.background }}
-    style="background-image: url('.{{ $.Site.BaseURL }}{{ $.Site.Params.background }}');" {{ end }}>
+    style="background-image: url('{{ $.Site.BaseURL }}{{ $.Site.Params.background }}');" {{ end }}>
     
     <div class="hero__caption" {{ if $.Site.Params.hero.textColor }} style="color: {{ $.Site.Params.hero.textColor }};"
         {{ end }}>
