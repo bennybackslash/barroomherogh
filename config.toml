@@ -1,6 +1,5 @@
 baseurl = "bennybackslash.github.io/barroomherosite/"
-relativeURLs = true
-uglyURLs = true
+
 title = "barroomhero"
 author = "Ben Doucette"
 googleAnalytics = ""
