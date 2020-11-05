@@ -1,7 +1,7 @@
 baseurl = "https://bennybackslash.github.io/barroomherosite/"
 # baseurl = "/"
 # relativeURLs = true
-# uglyURLs = true
+uglyURLs = true
 title = "barroomhero"
 author = "Ben Doucette"
 googleAnalytics = ""
