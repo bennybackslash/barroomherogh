@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>bennybackslash.github.io/barroomherosite/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>bennybackslash.github.io/barroomherosite/games/</loc>
+    <loc>/games.html</loc>
   </url>
   
   <url>
-    <loc>bennybackslash.github.io/barroomherosite/commands/</loc>
+    <loc>/commands.html</loc>
   </url>
   
   <url>
-    <loc>bennybackslash.github.io/barroomherosite/categories/</loc>
+    <loc>/categories.html</loc>
   </url>
   
   <url>
-    <loc>bennybackslash.github.io/barroomherosite/tags/</loc>
+    <loc>/tags.html</loc>
   </url>
   
 </urlset>
