@@ -1,4 +1,4 @@
-baseurl = "bennybackslash.github.io/barroomherosite/"
+baseurl = "https://bennybackslash.github.io/barroomherosite/"
 # baseurl = "/"
 relativeURLs = true
 uglyURLs = true
