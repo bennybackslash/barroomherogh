@@ -1,10 +1,11 @@
-baseurl = "/"
+baseurl = "bennybackslash.github.io/barroomherosite/"
 title = "barroomhero"
 author = "Ben Doucette"
 googleAnalytics = ""
 defaultContentLanguage = "en"
 language = "en-US"
 paginate = 3
+publishDir = "docs"
 
 [markup]
   [markup.goldmark]
