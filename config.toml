@@ -42,8 +42,9 @@ publishDir = "docs"
 
 [params.cta] # Call To Action 
     show = true
-    cta = "ACTIVATE"
-    link = "https://discordapp.com/api/oauth2/authorize?client_id=689898182427410440&permissions=8&scope=bot" # Relative URL
+    cta = "BUY ($1/month)"
+    # link = "javascript:void(0)" data-billsby-type="checkout"
+    # link = "https://discordapp.com/api/oauth2/authorize?client_id=689898182427410440&permissions=8&scope=bot" # Relative URL
 
 [params.separator] # Separators between sections on the home page
     show = false
