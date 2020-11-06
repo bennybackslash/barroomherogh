@@ -4,6 +4,7 @@ description: ""
 images: []
 draft: false
 menu: main
+url: "/commands/"
 weight: 3
 ---
 
