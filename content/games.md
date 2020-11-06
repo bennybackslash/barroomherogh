@@ -4,6 +4,7 @@ description: ""
 images: []
 draft: false
 menu: main
+url: "/games/"
 weight: 2
 ---
 
